@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\guilh\OneDrive\Área de Trabalho\apsii\.metadata\.plugins\org.eclipse.jdt.core
+2185846202.index
+3763726863.index
+1865797976.index

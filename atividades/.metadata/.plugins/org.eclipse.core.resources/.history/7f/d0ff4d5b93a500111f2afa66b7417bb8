@@ -1,0 +1,9 @@
+public class Bicicleta extends Veiculo{
+
+	@Override
+	public String devagar(){
+		// TODO Auto-generated method stub
+		return "Bicicleta andando Devagar!";
+	}
+
+}
