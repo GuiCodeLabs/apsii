@@ -1,0 +1,6 @@
+package pizzaria;
+
+public class Mushroom extends Veggies {
+    @Override
+    public String toString() { return "Cogumelo"; }
+}
